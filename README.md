@@ -1,5 +1,4 @@
-### Experience
----
+## Experience
 
 |Type|Date|Detail|Organization|
 |---|---|---|---|
@@ -8,8 +7,7 @@
 |Full-Time|19.12.20 ~ 21.12.31|Backend, Frontend Developer|주식회사 엔키|
 
 
-### Languages, Frameworks & Tools
----
+## Languages, Frameworks & Tools
 
 **Major experience at**
 
@@ -43,8 +41,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-### Likes
----
+## Likes
 
 Gaming with..
 
