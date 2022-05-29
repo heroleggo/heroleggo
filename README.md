@@ -4,7 +4,7 @@
 |---|---|---|---|
 |UNIV|17.03.01 ~ |Department of Cyber Security|아주대학교|
 |Lab-Intern|19.07.01 ~ 19.12.19|Participation in research projects|ISAA Lab|
-|Full-Time|19.12.20 ~ 21.12.31|Web, DevOps Developer|주식회사 엔키|
+|Full-Time|19.12.20 ~ 21.12.31|Web, DevOps |주식회사 엔키|
 
 
 ## Languages, Frameworks & Tools
