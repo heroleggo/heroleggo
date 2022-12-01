@@ -39,3 +39,5 @@
 Gaming with..
 
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
+![(https://github-readme-stats.vercel.app/api?username=heroleggo&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=heroleggo&show_icons=true&theme=dracula)
