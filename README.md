@@ -2,7 +2,7 @@
 
 |Type|Date|Detail|Organization|
 |---|---|---|---|
-|UNIV|17.03.01 ~ |Department of Cyber Security|아주대학교|
+|UNIV|17.03.01 ~ 23.02.22|Department of Cyber Security|아주대학교|
 |Lab-Intern|19.07.01 ~ 19.12.19|Participation in research projects|ISAA Lab|
 
 
@@ -24,6 +24,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
