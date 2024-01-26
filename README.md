@@ -4,6 +4,7 @@
 |---|---|---|---|
 |UNIV|17.03.01 ~ 23.02.22|Department of Cyber Security|아주대학교|
 |Lab-Intern|19.07.01 ~ 19.12.19|Participation in research projects|ISAA Lab|
+|Full-time|19.12.20 ~ 21.12.31|Participation in bug bounty platform (BugCamp)|Enki|
 |Full-time|23.03.02 ~ |Participation in Payment System|TmaxFintech|
 
 
