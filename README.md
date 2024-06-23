@@ -6,6 +6,22 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=heroleggo)](https://github.com/anuraghazra/github-readme-stats)
 
+## Introduce myself
+
+**Point 1.** *I love Coffee*
+
+Show my records&stories about coffee, workout, computer and outfit on instagram >>  <a href="https://instagram.com/h3r0.workout"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" /></a> <<
+
+
+**Point 2.** *I love game*
+
+I like LOL(League of Legends). contact to me if you want to play game with me!
+
+
+**Point 3.** *I love thinking, talking about deep technologies*
+
+I love to see some articles about SOTA technology, regardless of any subcategories on Computer Science, Economics, etc.
+
 ## Contact
 <div style="display: flex; flex-direction: row;">
   <a href="mailto:h3r0.y0u@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" /></a>
