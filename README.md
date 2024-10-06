@@ -6,6 +6,8 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=heroleggo)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=heroleggo)](https://solved.ac/heroleggo)
+
 ## Introduce myself
 
 **Point 1.** *I love Coffee*
