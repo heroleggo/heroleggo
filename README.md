@@ -6,6 +6,8 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=heroleggo)](https://github.com/anuraghazra/github-readme-stats)
 
+#### My new Solved.ac profile (old profile is at the bottom of this page..)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=heroleggo)](https://solved.ac/heroleggo)
 
 ## Introduce myself
@@ -29,6 +31,12 @@ I love to see some articles about SOTA technology, regardless of any subcategori
   <a href="mailto:h3r0.y0u@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" /></a>
   <a href="https://instagram.com/heroforyou99"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" /></a>
 </div>
+
+#### Old profile
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=younghero)](https://solved.ac/younghero)
+
+
 <!-- ## Tech Stack
 
 ### Major
